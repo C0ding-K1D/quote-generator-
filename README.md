@@ -12,7 +12,7 @@ This project is a simple web application that generates random quotes using the 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/random-quote-generator.git
+   git clone https://github.com/C0ding-K1D/quote-generator-.git
 
    ```
 
